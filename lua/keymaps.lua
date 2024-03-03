@@ -1,0 +1,6 @@
+vim.api.nvim_set_keymap('n', 'ts', ':tabe<CR>', {silent = true})
+vim.api.nvim_set_keymap('n', 'tc', ':tabclose<CR>', {silent = true})
+vim.api.nvim_set_keymap('n', 'j', 'gj', {})
+vim.api.nvim_set_keymap('n', 'k', 'gk', {})
+vim.api.nvim_set_keymap('', '<Esc><Esc>', ':nohlsearch<CR><Esc>', {})
+vim.api.nvim_set_keymap('', '<C-[><C-[>', ':nohlsearch<CR><Esc>', {})
