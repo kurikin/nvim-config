@@ -1,5 +1,6 @@
 require("tokyonight").setup({
-  transparent = true, 
-  terminal_colors = true, 
+  transparent = true,
+  style = "moon",
 })
-vim.cmd[[colorscheme tokyonight]]
+
+vim.cmd.colorscheme "tokyonight"
