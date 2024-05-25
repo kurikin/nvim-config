@@ -1,8 +1,8 @@
 {
-  "lazy.nvim": { "branch": "main", "commit": "aedcd79811d491b60d0a6577a9c1701063c2a609" },
+  "Comment.nvim": { "branch": "master", "commit": "0236521ea582747b58869cb72f70ccfa967d2e89" },
+  "catppuccin": { "branch": "main", "commit": "6af91673ceccbd6e073b66c439e7fce239f72d24" },
+  "kanagawa.nvim": { "branch": "master", "commit": "860e4f80df71221d18bf2cd9ef1deb4d364274d2" },
+  "lazy.nvim": { "branch": "main", "commit": "d3974346b6cef2116c8e7b08423256a834cb7cbc" },
   "lightline.vim": { "branch": "master", "commit": "58c97bc21c6f657d3babdd4eefce7593e30e75ce" },
-  "lualine.nvim": { "branch": "master", "commit": "8b56462bfb746760465264de41b4907310f113ec" },
-  "nightfox.nvim": { "branch": "main", "commit": "a408e6bb101066952b81de9c11be367114bd561f" },
-  "nvim-web-devicons": { "branch": "master", "commit": "4adea17610d140a99c313e3f79a9dc01825d59ae" },
-  "tokyonight.nvim": { "branch": "main", "commit": "610179f7f12db3d08540b6cc61434db2eaecbcff" }
+  "tokyonight.nvim": { "branch": "main", "commit": "67afeaf7fd6ebba000633e89f63c31694057edde" }
 }
